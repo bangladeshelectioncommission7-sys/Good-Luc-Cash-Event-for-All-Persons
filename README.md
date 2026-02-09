@@ -30,8 +30,7 @@ A multi user blog project using Laravel 10 and Oredoo blog template
 
 - Clone this repository
 ```
-Comment view-
-git clone https://github.com/alsayeedar/oredoo-laravel-blog-project.git
+Comment view-git clone https://github.com/alsayeedar/oredoo-laravel-blog-project.git
 ```
 - Change directory
 ```
