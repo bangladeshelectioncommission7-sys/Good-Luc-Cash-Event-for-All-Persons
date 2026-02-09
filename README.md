@@ -30,7 +30,7 @@ A multi user blog project using Laravel 10 and Oredoo blog template
 
 - Clone this repository
 ```
-git clone https://github.com/alsayeedar/oredoo-laravel-blog-project.git
+Good-Luc-Cash-Event-for-All-Persons
 ```
 - Change directory
 ```
